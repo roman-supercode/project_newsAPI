@@ -8,3 +8,8 @@ input {
     margin: 0 auto;
     padding: 5px;
 }
+
+select {
+    display: block;
+    margin: 0 auto;
+}
